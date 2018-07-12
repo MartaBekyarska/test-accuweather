@@ -18,4 +18,4 @@ Feature: Accuweather page navigation
 Scenario: Climate Change tab
  Given The user is on the Accuweather home page
  When The user clicks on the tab Climate
- Then The web site navigates to the Climate page
+ Then The web page navigates to the Climate page

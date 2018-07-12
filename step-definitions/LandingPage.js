@@ -10,4 +10,11 @@ module.exports = function () {
       return element.click();
 });
     });
+    this.Then(/^The web page navigates to the Climate page$/, function() {
+      return helpers.getFirstElementContainingText("h2", "The Global Climate Change Center").then(function(element){
+
+          expect(element).to.not.equal(undefined);
+
+          });
+  });
 };
