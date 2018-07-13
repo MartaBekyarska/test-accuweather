@@ -6,9 +6,9 @@ Using cucumber.js with Selenium to test Accuweather Climate change tab
 
    - Install the following node modules with [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/)
 
-     o Chai(latest)
+      Chai(latest)
   
-     o Cucumber(latest)
+      Cucumber(latest)
 
 ## Add the following files
 ```Gherkin
