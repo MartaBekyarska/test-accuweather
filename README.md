@@ -2,7 +2,7 @@
 Using cucumber.js with Selenium to test Accuweather Climate change tab
 
 ## Setup
-   - Install [Node.js](https://nodejs.org/en/) (6 or higher) or [Atom](https://atom.io/)
+   - Install [Node.js](https://nodejs.org/en/) (6 or higher) 
 
    - Install the following node modules with [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/)
 
